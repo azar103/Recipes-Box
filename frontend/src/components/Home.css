@@ -1,0 +1,26 @@
+
+h1{
+    text-align: center;
+    color: #1D1D1D;
+    font-family: 'Indie Flower',cursive;
+    font-weight: bold;
+    font-size: 2em;
+  }
+  .App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  
+  #go_btn{
+    width: 414px;
+    height: 40px;
+    background-color: #F44336;
+    border-radius: 2px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    color:wheat;
+    border: none;
+  }
